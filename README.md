@@ -38,7 +38,7 @@
 
 ###
 
-<img href="https://raw.githubusercontent.com/deadzc/deadzc/blob/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/deadzc/deadzc/blob/output/github-contribution-grid-snake.svg)
 
 ###
 <!--
