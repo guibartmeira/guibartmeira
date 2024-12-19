@@ -28,7 +28,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/dotnetcore/dotnetcore-original.svg" height="40" width="52" alt=".Net Core logo"/>
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/csharp/csharp-original.svg height="40" width="52" alt="C# logo"
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/csharp/csharp-original.svg" height="40" width="52" alt="C# logo"/>
 </div>
 
 ###
